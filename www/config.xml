@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
         version   = "2.2.0">
-    <name>Hello World</name>
+    <name>Hi there, Im the title with i18N chars :) AFdz¡¼«¶ÇÐäÿ×÷ĊęĮĿōŘťſЊџЛяѨ</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        ÃÕÃÀÁÊÈ!>[~12AFdz¡¼«¶ÇÐäÿ×÷ĊęĮĿōŘťſЊџЛяѨ҉ҝҾӲӼͲϟϺ͵ͺͼ;΄Όήϋϗϯϲϳ϶ϸϼϾἇἿώ῀ῼ中国漢語日本ひらがなカタカナ한국어조선말
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
