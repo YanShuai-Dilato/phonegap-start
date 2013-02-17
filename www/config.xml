@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
-        version   = "2.2.0">
+        version   = "versionĮĿōŘťſЊ0">
     <name>Hi there, Im the title with i18N chars :) AFdz¡¼«¶ÇÐäÿ×÷ĊęĮĿōŘťſЊџЛяѨ</name>
 
     <description>
