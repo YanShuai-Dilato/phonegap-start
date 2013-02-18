@@ -2,11 +2,11 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
-        version   = "versionĮĿōŘťſЊ0">
-    <name>Hi there, Im the title with i18N chars :) AFdz¡¼«¶ÇÐäÿ×÷ĊęĮĿōŘťſЊџЛяѨ</name>
+        version   = "99.99">
+    <name>Hi there, Im the title </name>
 
     <description>
-        ÃÕÃÀÁÊÈ!>[~12AFdz¡¼«¶ÇÐäÿ×÷ĊęĮĿōŘťſЊџЛяѨ҉ҝҾӲӼͲϟϺ͵ͺͼ;΄Όήϋϗϯϲϳ϶ϸϼϾἇἿώ῀ῼ中国漢語日本ひらがなカタカナ한국어조선말
+        Im the description.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
